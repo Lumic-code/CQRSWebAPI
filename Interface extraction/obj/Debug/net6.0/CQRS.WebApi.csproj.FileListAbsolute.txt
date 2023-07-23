@@ -1,0 +1,14 @@
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.AssemblyInfoInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.AssemblyInfo.cs
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mirac\OneDrive\Desktop\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.csproj.AssemblyReference.cache
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.AssemblyInfoInputs.cache
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.AssemblyInfo.cs
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wisdo\Desktop\Learning Demo\Learning Demo\Interface extraction\Interface extraction\obj\Debug\net6.0\CQRS.WebApi.MvcApplicationPartsAssemblyInfo.cache
